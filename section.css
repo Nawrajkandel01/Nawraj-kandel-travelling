@@ -1,0 +1,55 @@
+.deals{
+    display: flex ;
+    justify-content: space-around;
+    width: 25%;
+    border-radius: 20px;
+}
+.deals_section{
+    display: flex;
+    padding: 10px;
+    width: fit-content;
+}
+.text-deals{
+    width: 100%;
+    align-content: center;
+}
+.imgs{
+    border-radius: 20px;
+    padding: 10px;
+    width: 25%;
+}
+.logo{
+    width: 30px;
+}
+.Travelling{ 
+    display: flex;
+    color: rgb(230, 138, 0);
+    margin: 10px;
+    padding: 5%;
+    justify-content: space-around;
+    font-size: small;
+
+}
+.a{
+  
+   height: 500px;
+   width: 270px;
+    border-radius: 10px;
+    background-color: rgb(223, 217, 217) ;
+    justify-items: center;
+    color: black;
+    font-size: medium;
+    align-content: center;
+    padding: 2%;
+}
+.logo-img{
+    width: 50px;
+}
+#second-footer{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+   
+ 
+}
